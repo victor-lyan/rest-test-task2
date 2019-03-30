@@ -15,6 +15,7 @@ To create tables and populate them with initial data you need to uncomment one l
 ### Test task endpoints
 
 `GET http://localhost:9090/students/{firstNameOrLastName)` - search students
+
 `POST http://localhost:9090/students` - create new student
 ```
 Body example:
